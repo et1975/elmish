@@ -1,3 +1,8 @@
+### 4.0.0-alfa-1
+
+* Adding termination
+* Moving `syncDispatch` into `runWith` args
+
 ### 3.0.4
 
 * Access to `Program`'s error handler
